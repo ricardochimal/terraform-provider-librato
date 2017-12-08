@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/hashicorp/terraform/plugin"
-	"github.com/terraform-providers/terraform-provider-librato/librato"
+	"github.com/ricardochimal/terraform-provider-librato/librato"
 )
 
 func main() {
